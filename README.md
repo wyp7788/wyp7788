@@ -3,9 +3,10 @@
 **FPGA Engineer | MSE @ Institute of Electronic Design Automation, Peking University**
 
 Currently focusing on:
-- RISC-V SoC design & Tape-out flow
+- RISC-V SoC design
 - FPGA prototyping (Xilinx Zynq/Versal)
 - High-performance digital circuit design
+- HLS+ SpinalHDL 
 
 ### 🔧 Tech Stack
 ![Verilog](https://img.shields.io/badge/-Verilog-1990?style=flat&logo=verilog&logoColor=white)
