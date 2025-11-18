@@ -1,6 +1,6 @@
 # Hi there, I'm Euan Wang 👋
 
-**Digital IC Design / FPGA Engineer | MSE @ Institute of Electronic Design Automation, Peking University**
+**FPGA Engineer | MSE @ Institute of Electronic Design Automation, Peking University**
 
 Currently focusing on:
 - RISC-V SoC design & Tape-out flow
@@ -19,7 +19,6 @@ Currently focusing on:
 | 项目 | 描述 | 技术 | Stars |
 |------|------|------|-------|
 | [SoC_Demo](link) | 从0到1完成RISC-V CPU设计 + FPGA上板验证 | Verilog, Vivado, Zynq | ⭐ 1 |
-| [XXX_Tapeout](link) | 参与XXnm工艺XX IP流片（可模糊写） | DC, ICC2, PrimeTime | - |
 | ... | ... | ... | ... |
 
 ### 📊 GitHub Stats
@@ -28,7 +27,6 @@ Currently focusing on:
 
 ### 📫 Contact
 - Email: ypwang0905@gmail.com
-- Blog :https://wyp7788.github.io（强烈建议把这个建起来）
+- Blog :https://wyp7788.github.io
 - X: 
 
-**Open to full-time IC/FPGA positions in 2026 🎯**
